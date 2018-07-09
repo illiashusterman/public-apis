@@ -463,6 +463,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 ### Machine Learning
 API | Description | Auth | HTTPS | CORS | Link |
 |---|---|---|---|---|---|
+| InData Labs | Natural Language Processing | `apiKey` | Yes | Unknown | [Go!](https://indatalabs.com/natural-language-processing-api) |
 | Clarifai | Computer Vision | `OAuth` | Yes | Unknown | [Go!](https://developer.clarifai.com/) |
 | Cloudmersive | Image captioning, face recognition, NSFW classification | `apiKey` | Yes | Yes | [Go!](https://www.cloudmersive.com/image-recognition-and-processing-api) |
 | Dialogflow | Natural Language Processing | `apiKey` | Yes | Unknown | [Go!](https://dialogflow.com) |
